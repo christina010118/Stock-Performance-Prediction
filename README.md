@@ -1,1 +1,2 @@
 # Stock-Performance-Prediction
+In this project, we aim to build a generalized model for predicting whether the closing price of a stock from the S&P500 will go up or down the next week. Our dataset is composed of 5572 weekly observations, and it has 125 predictor variables. The feature-space includes indicator variables that store temporal information, and it contains financial data from various indices. The data also has momentum signals such as moving averages. Within our dataset, all the numeric predictor variables are normalized as returns. 
